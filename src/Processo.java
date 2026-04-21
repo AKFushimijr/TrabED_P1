@@ -1,4 +1,4 @@
-public class Processo {git --version
+public class Processo {
     private int protocolo;
     private String solicitante;
     private String tipoDeServico;
